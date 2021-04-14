@@ -72,8 +72,12 @@ Experiência
 - Reportar bugs.
 
 ---
-#### **Focus Desenvolvimento** / Estagiário
-###### Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP
+<h4>
+  <img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" height="50">
+  <p><b>Focus Desenvolvimento</b> / Estagiário</p>
+</h4>
+<h6>Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP</h6>
+
 - Auxílio na tomada de decisão entre os Programadores;
 - Auxílio para o Suporte Interno perante informações dos sistemas desenvolvidos pela empresa;
 - Execução de Teste Manuais;
