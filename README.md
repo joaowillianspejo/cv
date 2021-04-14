@@ -91,8 +91,12 @@ Formação
 ###### Desde Outubro de 2020 - Turma 14
 
 ---
-#### **Fatec Taquaritinga** / Análise e Desenvolvimento de Sistemas *(ADS)*
-###### Desde Agosto de 2014, Taquaritinga - SP
+<h4>
+  <img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" height="50">
+  <p><b>Fatec Taquaritinga</b> / Análise e Desenvolvimento de Sistemas <i>(ADS)</i></p>
+</h4>
+<h6>Desde Agosto de 2014, Taquaritinga - SP</h6>
+
 <i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
 
 ---
