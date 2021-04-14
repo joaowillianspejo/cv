@@ -118,9 +118,12 @@ Formação
 
 Certificações
 ---
-#### **Scrum Foundation Professional Certificate (SFPC)** / CertiProf
-##### Emitido em Agosto de 2019 *(Sem data de expiração)*
-###### Credencial: 91565717389881
+<h4>
+  <img alt="SFPC" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Scrum-Foundation-Professional-Certificate-SFPC_480x480.png" height="60">
+  <p><b>Scrum Foundation Professional Certificate (SFPC)</b> / CertiProf</p>
+</h4>
+<h5>Emitido em Agosto de 2019 <i>(Sem data de expiração)</i></h5>
+<h6>Credencial: 91565717389881</h6>
 
 ---
 #### **Remote Work and Virtual Collaboration Professional Certificate (RWVCPC)** / CertiProf
