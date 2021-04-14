@@ -8,18 +8,22 @@ And in quality assurance, learning test automation with Cypress and Appium.
 Experiência
 ----
 <h4>
-  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="50"><br>
-  <p><b>DXC Technology<b> / Analista de Sistemas <i>(Sustentação N2)<i></p>
+  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="50">
+  <p><b>DXC Technology</b> / Analista de Sistemas <i>(Sustentação N2)</i></p>
 </h4>
-<h6> Desde Agosto de 2020, Araraquara - SP</h6>
+<h6>Desde Agosto de 2020, Araraquara - SP</h6>
 
 - Analisar Incidentes;
 - Buscar causa raiz do problema;
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
 
 ---
-#### **DXC Technology** / Analista de Testes Jr.
-###### Janeiro de 2020 - Julho de 2020, Araraquara - SP
+<h4>
+  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="50">
+  <p><b>DXC Technology<b> / Analista de Testes Jr.</p>
+</h4>
+<h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
+
 - Elaboração de Caso de Testes;
 - Execução de Teste Manuais;
 - Reportar bugs.
