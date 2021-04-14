@@ -56,8 +56,12 @@ Experiência
 - Reportar bugs.
 
 ---
-#### **Focus Desenvolvimento** / Analista de Suporte Externo
-###### Março de 2018 - Setembro de 2018, Taquaritinga - SP
+<h4>
+  <img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" height="50">
+  <p><b>Focus Desenvolvimento</b> / Analista de Suporte Externo</p>
+</h4>
+<h6>Março de 2018 - Setembro de 2018, Taquaritinga - SP</h6>
+
 - Auxílio na operação e configuração dos sistemas da empresa para com os usuários, pessoalmente e remotamente;
 - Aplicação de treinamento e capacitação dos usuários para operarem os sistemas;
 - Levantamento de informações e requisições dos usuários para aprimoramentos dos sistemas;
