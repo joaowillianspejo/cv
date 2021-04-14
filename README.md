@@ -33,7 +33,7 @@ Experiência
   <img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" width="60">
   <p><b>Datum TI</b> / Analista de Teste Jr.</p>
 </h4>
-<h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP<h6>
+<h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
 
 <i>A serviço da: <b>DXC Technology<b><i>
 - Escrita de Caso de Testes;
