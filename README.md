@@ -8,7 +8,7 @@ And in quality assurance, learning test automation with Cypress and Appium.
 Experiência
 ----
 <h4>
-  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="60">
+  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" height="50">
   <p><b>DXC Technology</b> / Analista de Sistemas <i>(Sustentação N2)</i></p>
 </h4>
 <h6>Desde Agosto de 2020, Araraquara - SP</h6>
@@ -19,7 +19,7 @@ Experiência
 
 ---
 <h4>
-  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="60">
+  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" height="50">
   <p><b>DXC Technology</b> / Analista de Testes Jr.</p>
 </h4>
 <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -30,7 +30,7 @@ Experiência
 
 ---
 <h4>
-  <img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" width="60">
+  <img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" height="50">
   <p><b>Datum TI</b> / Analista de Teste Jr.</p>
 </h4>
 <h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
@@ -43,7 +43,7 @@ Experiência
 
 ---
 <h4>
-  <img alt="Cast Group" src="https://castbi-clientes.azurewebsites.net/Content/Images/logo-cast-fundo-escuro.png" width="60">
+  <img alt="Cast Group" src="https://castbi-clientes.azurewebsites.net/Content/Images/logo-cast-fundo-escuro.png" height="50">
   <p><b>Cast Group</b> / Estagiário <i>(Turma de formação)</i></p>
 </h4>
 <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
