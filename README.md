@@ -7,21 +7,21 @@ And in quality assurance, learning test automation with Cypress and Appium.
 
 Experiência
 ----
-#### DXC Technology / Analista de Sistemas <i>(Sustentação N2)<i>
+#### **DXC Technology** / Analista de Sistemas *(Sustentação N2)*
 ###### Desde Agosto de 2020, Araraquara - SP
 - Analisar Incidentes;
 - Buscar causa raiz do problema;
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
 
 ---
-#### DXC Technology / Analista de Testes Jr.
+#### **DXC Technology** / Analista de Testes Jr.
 ###### Janeiro de 2020 - Julho de 2020, Araraquara - SP
 - Elaboração de Caso de Testes;
 - Execução de Teste Manuais;
 - Reportar bugs.
 
 ---
-#### Datum TI/ Analista de Teste Jr.
+#### **Datum TI** / Analista de Teste Jr.
 ###### Julho de 2019 - Janeiro de 2020, Araraquara - SP
 <i>A serviço da: <b>DXC Technology<b><i>
 - Escrita de Caso de Testes;
@@ -30,9 +30,9 @@ Experiência
 - Reportar bugs.
 
 ---
-#### Cast Group / Estagiário <i>(Turma de formação)<i>
+#### **Cast Group** / Estagiário *(Turma de formação)*
 ###### Janeiro de 2019 - Julho de 2019, Araraquara - SP
-<i>Cast Seeds Teste:<i>
+*Cast Seeds Teste:*
 - Elaboração de Caso de Testes;
 - Execução de Teste Manuais;
 - Execução de Testes Exploratórios;
@@ -40,7 +40,7 @@ Experiência
 - Reportar bugs.
 
 ---
-#### Focus Desenvolvimento / Analista de Suporte Externo
+#### **Focus Desenvolvimento** / Analista de Suporte Externo
 ###### Março de 2018 - Setembro de 2018, Taquaritinga - SP
 - Auxílio na operação e configuração dos sistemas da empresa para com os usuários, pessoalmente e remotamente;
 - Aplicação de treinamento e capacitação dos usuários para operarem os sistemas;
@@ -52,7 +52,7 @@ Experiência
 - Reportar bugs.
 
 ---
-#### Focus Desenvolvimento / Estagiário
+#### **Focus Desenvolvimento** / Estagiário
 ###### Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP
 - Auxílio na tomada de decisão entre os Programadores;
 - Auxílio para o Suporte Interno perante informações dos sistemas desenvolvidos pela empresa;
@@ -63,29 +63,29 @@ Experiência
 
 Formação
 ---
-#### Rocketseat/ Bootcamp GoStack
+#### **Rocketseat** / Bootcamp GoStack
 ###### Desde Outubro de 2020 - Turma 14
 
 ---
-#### Fatec Taquaritinga / Análise e Desenvolvimento de Sistemas (ADS)
+#### **Fatec Taquaritinga** / Análise e Desenvolvimento de Sistemas *(ADS)*
 ###### Desde Agosto de 2014, Taquaritinga - SP
 <i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
 
 ---
-#### Etec Dr. Adail Nunes da Silva / Técnico em Informática
+#### **Etec Dr. Adail Nunes da Silva** / Técnico em Informática
 ###### Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP
 
 ---
-#### Etec Dr. Adail Nunes da Silva / Ensino Médio
+#### **Etec Dr. Adail Nunes da Silva** / Ensino Médio
 ###### Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP
 
 Certificações
 ---
-#### Scrum Foundation Professional Certificate (SFPC) / CertiProf
+#### **Scrum Foundation Professional Certificate (SFPC)** / CertiProf
 ##### Emitido em Agosto de 2019 <i>(Sem data de expiração)<i>
 ###### Credencial: 91565717389881
 
 ---
-#### Remote Work and Virtual Collaboration Professional Certificate (RWVCPC) / CertiProf
+#### **Remote Work and Virtual Collaboration Professional Certificate (RWVCPC)** / CertiProf
 ##### Janeiro de 2021 - Janeiro de 2023
 ###### Credencial: 56199660
