@@ -67,17 +67,17 @@ Experiência
 Formação
 ---
 #### Rocketseat/ Bootcamp GoStack
-##### Desde Outubro de 2020 - Turma 14
+###### Desde Outubro de 2020 - Turma 14
 
 ---
 #### Fatec Taquaritinga / Análise e Desenvolvimento de Sistemas (ADS)
-##### Desde Agosto de 2014, Taquaritinga - SP
-###### <i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
+###### Desde Agosto de 2014, Taquaritinga - SP
+<i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
 
 ---
 #### Etec Dr. Adail Nunes da Silva / Técnico em Informática
-##### Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP
+###### Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP
 
 ---
 #### Etec Dr. Adail Nunes da Silva / Ensino Médio
-##### Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP
+###### Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP
