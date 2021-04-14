@@ -72,7 +72,7 @@ Formação
 ---
 #### Fatec Taquaritinga / Análise e Desenvolvimento de Sistemas (ADS)
 ##### Desde Agosto de 2014, Taquaritinga - SP
-<i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
+###### <i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
 
 ---
 #### Etec Dr. Adail Nunes da Silva / Técnico em Informática
