@@ -7,7 +7,7 @@ And in quality assurance, learning test automation with Cypress and Appium.
 
 Experiência
 ----
-<h4> <img src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="50"> **DXC Technology** / Analista de Sistemas *(Sustentação N2)*</h4>
+<h4> <img src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" width="50"> <b>DXC Technology<b> / Analista de Sistemas <i>(Sustentação N2)<i></h4>
 ###### Desde Agosto de 2020, Araraquara - SP
 - Analisar Incidentes;
 - Buscar causa raiz do problema;
