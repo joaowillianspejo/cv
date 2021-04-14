@@ -1,11 +1,9 @@
 ## C.V. (Curriculum Vitae)
 
 ### João Willian Belarmino Spejo
----
-
-<p> Graduating in Analysis and Systems Development (ADS) at Fatec Taquaritinga.<br>
+> Graduating in Analysis and Systems Development (ADS) at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
-And in quality assurance, learning test automation with Cypress and Appium. <p>
+And in quality assurance, learning test automation with Cypress and Appium.
 
 Experiência
 ----
