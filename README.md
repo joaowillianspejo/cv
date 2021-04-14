@@ -78,3 +78,10 @@ Formação
 ---
 #### Etec Dr. Adail Nunes da Silva / Ensino Médio
 ###### Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP
+
+Certificações
+---
+#### <br>Scrum Foundation Professional Certificate (SFPC)<b>/ CertiProf
+##### Emitido em Agosto de 2019 <i>(Sem data de expiração)<i>
+###### Credencial: 91565717389881
+
