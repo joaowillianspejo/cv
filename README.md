@@ -1,7 +1,7 @@
 ## C.V. (Curriculum Vitae)
 
 ### João Willian Belarmino Spejo
-> Graduating in Analysis and Systems Development (ADS) at Fatec Taquaritinga.<br>
+> Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
 And in quality assurance, learning test automation with Cypress and Appium.
 
@@ -26,7 +26,7 @@ Experiência
 <i>A serviço da: <b>DXC Technology<b><i>
 - Escrita de Caso de Testes;
 - Execução de Teste Manuais;
-- Execução de scripts de automação de testes no UFT (Micro Focus Unified Functional Testing);
+- Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
 
 ---
@@ -82,7 +82,7 @@ Formação
 Certificações
 ---
 #### **Scrum Foundation Professional Certificate (SFPC)** / CertiProf
-##### Emitido em Agosto de 2019 <i>(Sem data de expiração)<i>
+##### Emitido em Agosto de 2019 *(Sem data de expiração)*
 ###### Credencial: 91565717389881
 
 ---
