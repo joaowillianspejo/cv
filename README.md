@@ -40,3 +40,25 @@ And in quality assurance, learning test automation with Cypress and Appium.
 - Execução de Testes Exploratórios;
 - Reportar furos negociais;
 - Reportar bugs.
+
+---
+#### Focus Desenvolvimento / Analista de Suporte Externo
+##### Março de 2018 - Setembro de 2018, Taquaritinga - SP
+- Auxílio na operação e configuração dos sistemas da empresa para com os usuários, pessoalmente e remotamente;
+- Aplicação de treinamento e capacitação dos usuários para operarem os sistemas;
+- Levantamento de informações e requisições dos usuários para aprimoramentos dos sistemas;
+- Discutir e explicar regras de negócio com a equipe de desenvolvimento, para que a mesma implemente-as de forma adequada nos sistemas desenvolvidos pela empresa;
+- Execução de Teste Manuais;
+- Execução de Testes Exploratórios;
+- Execução de Testes de Regressão;
+- Reportar bugs.
+
+---
+#### Focus Desenvolvimento / Estagiário
+##### Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP
+- Auxílio na tomada de decisão entre os Programadores;
+- Auxílio para o Suporte Interno perante informações dos sistemas desenvolvidos pela empresa;
+- Execução de Teste Manuais;
+- Execução de Testes Exploratórios;
+- Execução de Testes de Regressão;
+- Reportar bugs.
