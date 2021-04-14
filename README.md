@@ -42,9 +42,13 @@ Experiência
 - Reportar bugs.
 
 ---
-#### **Cast Group** / Estagiário *(Turma de formação)*
-###### Janeiro de 2019 - Julho de 2019, Araraquara - SP
-*Cast Seeds Teste:*
+<h4>
+  <img alt="Cast Group" src="https://castbi-clientes.azurewebsites.net/Content/Images/logo-cast-fundo-escuro.png" width="60">
+  <p><b>Cast Group</b> / Estagiário <i>(Turma de formação)</i></p>
+</h4>
+<h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
+
+<i>Cast Seeds Teste:</i>
 - Elaboração de Caso de Testes;
 - Execução de Teste Manuais;
 - Execução de Testes Exploratórios;
