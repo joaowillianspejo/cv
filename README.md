@@ -87,8 +87,11 @@ Experiência
 
 Formação
 ---
-#### **Rocketseat** / Bootcamp GoStack
-###### Desde Outubro de 2020 - Turma 14
+<h4>
+  <img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/114651897-38299a00-9cbb-11eb-9483-c51f61779302.png" height="30">
+  <p><b>Rocketseat</b> / Bootcamp GoStack</p>
+</h4>
+<h6>Desde Outubro de 2020 - Turma 14</h6>
 
 ---
 <h4>
