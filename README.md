@@ -8,7 +8,7 @@ And in quality assurance, learning test automation with Cypress and Appium.
 Experiência
 ----
 <h4>
-  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" height="50">
+  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" height="60">
   <p><b>DXC Technology</b> / Analista de Sistemas <i>(Sustentação N2)</i></p>
 </h4>
 <h6>Desde Agosto de 2020, Araraquara - SP</h6>
@@ -19,7 +19,7 @@ Experiência
 
 ---
 <h4>
-  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" height="50">
+  <img alt="DXC" src="https://assets1.dxc.technology/newsroom/images/dxc_logo_vt_wht_300.png" height="60">
   <p><b>DXC Technology</b> / Analista de Testes Jr.</p>
 </h4>
 <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -100,12 +100,18 @@ Formação
 <i>Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)<i>
 
 ---
-#### **Etec Dr. Adail Nunes da Silva** / Técnico em Informática
-###### Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP
+<h4>
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/114651243-f64c2400-9cb9-11eb-8e1d-18dcb9e99afb.png" height="60">
+  <p><b>Etec Dr. Adail Nunes da Silva</b> / Técnico em Informática</p>
+</h4>
+<h6>Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP</h6>
 
 ---
-#### **Etec Dr. Adail Nunes da Silva** / Ensino Médio
-###### Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP
+<h4>
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/114651243-f64c2400-9cb9-11eb-8e1d-18dcb9e99afb.png" height="60">
+  <p><b>Etec Dr. Adail Nunes da Silva</b> / Ensino Médio</p>
+</h4>
+<h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
 
 Certificações
 ---
