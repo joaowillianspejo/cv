@@ -8,6 +8,7 @@ Currently in web and mobile development learning NodeJS, ReactJS and React Nativ
 
 And in quality assurance, learning test automation with Cypress and Appium.
 
+Experiência
 ----
 #### DXC Technology / Analista de Sistemas <i>(Sustentação N2)<i>
 ##### Desde Agosto de 2020, Araraquara - SP
