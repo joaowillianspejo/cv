@@ -43,7 +43,7 @@ Experiência
 
 ---
 <h4>
-  <img alt="Cast Group" src="https://castbi-clientes.azurewebsites.net/Content/Images/logo-cast-fundo-escuro.png" height="50">
+  <img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" height="50">
   <p><b>Cast Group</b> / Estagiário <i>(Turma de formação)</i></p>
 </h4>
 <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
