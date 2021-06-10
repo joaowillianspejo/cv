@@ -44,7 +44,7 @@ Experiência
 ---
 <h4>
   <img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" height="50">
-  <p><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></p>
+  <p><b>Cast Group</b> | Estagiário (Turma de formação)</p>
 </h4>
 <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
 
@@ -96,7 +96,7 @@ Formação
 ---
 <h4>
   <img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" height="50">
-  <p><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas <i>(ADS)</i></p>
+  <p><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas (ADS)</p>
 </h4>
 <h6>Desde Agosto de 2014, Taquaritinga - SP</h6>
 
