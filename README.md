@@ -119,8 +119,8 @@ Formação
 <div>
   <img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" align="left" height="45">
   <div>
-    <h4><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas (ADS)</h4>
-    <h6>Desde Agosto de 2014, Taquaritinga - SP &nbsp; * Pendente apenas entrega e apresentação do TCC (Trabalho de Conclusão de Curso)</h6>
+    <h4><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas <i>(ADS)</i></h4>
+    <h6>Desde Agosto de 2014, Taquaritinga - SP &nbsp; * Pendente apenas entrega e apresentação do TCC <i>(Trabalho de Conclusão de Curso)</i></h6>
   </div>
 <div>
   
