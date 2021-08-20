@@ -41,7 +41,7 @@ Experiência
   </div>
 </div>
 
-<i>A serviço da: <b>DXC Technology<b><i>
+<i>A serviço da: <b>DXC Technology</b></i>
 - Escrita de Caso de Testes;
 - Execução de Teste Manuais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
@@ -51,7 +51,7 @@ Experiência
 <div>
   <img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="55">
   <div>
-    <h4><b>Cast Group</b> | Estagiário (Turma de formação)</h4>
+    <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
   </div>
 <div>
