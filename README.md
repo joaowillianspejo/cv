@@ -1,6 +1,10 @@
-## C.V. (Curriculum Vitae)
+<h6> <b>Atenção:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema claro no seu navehador acesse a versão Light aqui. Curriculum Vitae (Light Mode)</h6>
 
-### João Willian Belarmino Spejo
+
+<h2>C.V. (Curriculum Vitae)</h2>
+
+<h3>João Willian Belarmino Spejo</h3>
+
 > Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
 And in quality assurance, learning test automation with Cypress and Appium.
