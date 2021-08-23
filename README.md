@@ -12,7 +12,7 @@ And in quality assurance, learning test automation with Cypress and Appium.
 Experiência
 ----
 <div>
-  <img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55">
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
@@ -25,7 +25,7 @@ Experiência
 
 ---
 <div>
-  <img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55">
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Testes Jr.</h4>
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -38,7 +38,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" align="left" height="46">
+  <a href="https://www.datum.inf.br/"><img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" align="left" height="46"></a>
   <div>
     <h4><b>Datum TI</b> | Analista de Teste Jr.</h4>
     <h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
@@ -53,7 +53,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="55">
+  <a href="https://www.castgroup.com.br/pt/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="55"></a>
   <div>
     <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
@@ -69,7 +69,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70">
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Analista de Suporte Externo</h4>
     <h6>Março de 2018 - Setembro de 2018, Taquaritinga - SP</h6>
@@ -88,7 +88,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70">
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Estagiário</h4>
     <h6>Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP</h6>
@@ -107,7 +107,7 @@ Experiência
 Formação
 ---
 <div align="center">
-  <img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/122497141-45b51600-cfc3-11eb-92ef-2dfb8a7e3f62.png" height="50">
+  <a href="https://rocketseat.com.br/"><img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/122497141-45b51600-cfc3-11eb-92ef-2dfb8a7e3f62.png" height="50"></a>
   <hr width="200"/>
 </div>
 
@@ -121,7 +121,7 @@ Formação
 
 ---
 <div>
-  <img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" align="left" height="45">
+  <a href="https://www.fatectq.edu.br/curso/analise-e-desenvolvimento-de-sistemas"><img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" align="left" height="45"></a>
   <div>
     <h4><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas <i>(ADS)</i></h4>
     <h6>Desde Agosto de 2014, Taquaritinga - SP &nbsp; * Pendente apenas entrega e apresentação do TCC <i>(Trabalho de Conclusão de Curso)</i></h6>
