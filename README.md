@@ -119,9 +119,13 @@ Formação
   </div>
 </div>
 
----
+<div align="center">
+  <a href="https://rocketseat.com.br/"><img alt="Centro Paula Souza" src="https://user-images.githubusercontent.com/44349156/130835882-0e24e4b7-c5ff-4048-bb31-e23f99a4a8a1.png" height="78"></a>
+  <hr width="200"/>
+</div>
+
 <div>
-  <a href="https://www.fatectq.edu.br/curso/analise-e-desenvolvimento-de-sistemas"><img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" align="left" height="45"></a>
+  <a href="https://www.fatectq.edu.br/curso/analise-e-desenvolvimento-de-sistemas"><img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/130834833-c1e38fce-ea98-4aa8-97ce-48da96e60dc7.png" align="left" height="45"></a>
   <div>
     <h4><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas <i>(ADS)</i></h4>
     <h6>Desde Agosto de 2014, Taquaritinga - SP &nbsp; * Pendente apenas entrega e apresentação do TCC <i>(Trabalho de Conclusão de Curso)</i></h6>
@@ -130,7 +134,7 @@ Formação
   
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/114651243-f64c2400-9cb9-11eb-8e1d-18dcb9e99afb.png" align="left" height="70">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/130834329-0940dd4f-b4ac-4f05-9ac2-dfbac491d091.png" align="left" height="70">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Técnico em Informática</h4>
     <h6>Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP</h6>
@@ -139,7 +143,7 @@ Formação
   
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/114651243-f64c2400-9cb9-11eb-8e1d-18dcb9e99afb.png" align="left" height="70">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/130834329-0940dd4f-b4ac-4f05-9ac2-dfbac491d091.png" align="left" height="70">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Ensino Médio</h4>
     <h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
