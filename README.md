@@ -120,7 +120,7 @@ Formação
 </div>
 
 <div align="center">
-  <a href="https://rocketseat.com.br/"><img alt="Centro Paula Souza" src="https://user-images.githubusercontent.com/44349156/130835882-0e24e4b7-c5ff-4048-bb31-e23f99a4a8a1.png" height="78"></a>
+  <a href="https://www.cps.sp.gov.br/"><img alt="Centro Paula Souza" src="https://user-images.githubusercontent.com/44349156/130835882-0e24e4b7-c5ff-4048-bb31-e23f99a4a8a1.png" height="78"></a>
   <hr width="200"/>
 </div>
 
