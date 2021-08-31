@@ -12,7 +12,7 @@ And in quality assurance, learning test automation with Cypress and Appium.
 Experiência
 ----
 <div>
-  <img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55">
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
@@ -25,7 +25,7 @@ Experiência
 
 ---
 <div>
-  <img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55">
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Testes Jr.</h4>
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -38,7 +38,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Datum TI" src="https://user-images.githubusercontent.com/44349156/130525104-bbfed5f7-f538-4808-827e-437df5bf51e6.png" align="left" height="46">
+  <a href="https://www.datum.inf.br/"><img alt="Datum TI" src="https://user-images.githubusercontent.com/44349156/130525104-bbfed5f7-f538-4808-827e-437df5bf51e6.png" align="left" height="46"></a>
   <div>
     <h4><b>Datum TI</b> | Analista de Teste Jr.</h4>
     <h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
@@ -53,7 +53,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/130525756-3edae0ff-8bd4-4d75-a6d4-ee661840e310.png" align="left" height="55">
+  <a href="https://www.castgroup.com.br/pt/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/130525756-3edae0ff-8bd4-4d75-a6d4-ee661840e310.png" align="left" height="55"></a>
   <div>
     <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
@@ -69,7 +69,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70">
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Analista de Suporte Externo</h4>
     <h6>Março de 2018 - Setembro de 2018, Taquaritinga - SP</h6>
@@ -88,7 +88,7 @@ Experiência
 
 ---
 <div>
-  <img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70">
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Estagiário</h4>
     <h6>Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP</h6>
@@ -107,7 +107,7 @@ Experiência
 Formação
 ---
 <div align="center">
-  <img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/130525967-cbfda913-123d-45ee-948d-c51f2dbbf1aa.png" height="50">
+  <a href="https://rocketseat.com.br/"><img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/130525967-cbfda913-123d-45ee-948d-c51f2dbbf1aa.png" height="50"></a>
   <hr width="200"/>
 </div>
 
@@ -119,18 +119,22 @@ Formação
   </div>
 </div>
 
----
+<div align="center">
+  <a href="https://www.cps.sp.gov.br/"><img alt="Centro Paula Souza" src="https://user-images.githubusercontent.com/44349156/131522139-8f5fefe0-432f-4a83-88b0-84ec6fe4cf0c.png" height="78"></a>
+  <hr width="200"/>
+</div>
+
 <div>
-  <img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/114650909-673f0c00-9cb9-11eb-8e52-fad74d3539dc.png" align="left" height="45">
+  <a href="https://www.fatectq.edu.br/curso/analise-e-desenvolvimento-de-sistemas"><img alt="Fatec Taquaritinga" src="https://user-images.githubusercontent.com/44349156/131523724-b2f695d3-f68c-4c47-b4c7-9c6018ecbe0e.png" align="left" height="45"></a>
   <div>
     <h4><b>Fatec Taquaritinga</b> | Análise e Desenvolvimento de Sistemas <i>(ADS)</i></h4>
     <h6>Desde Agosto de 2014, Taquaritinga - SP &nbsp; * Pendente apenas entrega e apresentação do TCC <i>(Trabalho de Conclusão de Curso)</i></h6>
   </div>
 <div>
-  
+
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/114651243-f64c2400-9cb9-11eb-8e1d-18dcb9e99afb.png" align="left" height="70">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/131523861-bd564ce7-84d6-44f4-a94d-0967d41e891a.png" align="left" height="70">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Técnico em Informática</h4>
     <h6>Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP</h6>
@@ -139,7 +143,7 @@ Formação
   
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/114651243-f64c2400-9cb9-11eb-8e1d-18dcb9e99afb.png" align="left" height="70">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/131523861-bd564ce7-84d6-44f4-a94d-0967d41e891a.png" align="left" height="70">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Ensino Médio</h4>
     <h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
