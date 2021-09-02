@@ -1,4 +1,4 @@
-##### <b>ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema escuro em seu navegador, acesse a versão Dark. [Curriculum Vitae (Dark Mode)](https://github.com/joaowillianspejo/cv/blob/main/README.md)
+#### <b>⚠️ &nbsp; ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema escuro em seu navegador, acesse a versão Dark. [Curriculum Vitae (Dark Mode)](https://github.com/joaowillianspejo/cv/blob/main/README.md)
 
 
 <h2>C.V. (Curriculum Vitae)</h2>
