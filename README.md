@@ -1,4 +1,4 @@
-##### <b>ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema claro em seu navegador, acesse a versão Light. [Curriculum Vitae (Light Mode)](https://github.com/joaowillianspejo/cv/blob/main/Curriculum%20Vitae%20(Light%20Mode).md)
+#### <b>⚠️ &nbsp; ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema claro em seu navegador, acesse a versão Light. [Curriculum Vitae (Light Mode)](https://github.com/joaowillianspejo/cv/blob/main/Curriculum%20Vitae%20(Light%20Mode).md)
 
 
 <h2>C.V. (Curriculum Vitae)</h2>
