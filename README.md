@@ -14,6 +14,15 @@ Experiência
 <div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
   <div>
+    <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
+    <h6>Desde Setembro de 2021, Santos - SP <i>(Remoto)</i></h6>
+  </div>
+</div>
+
+----
+<div>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
+  <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
   </div>
