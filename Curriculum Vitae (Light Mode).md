@@ -14,6 +14,17 @@ Experiência
 <div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
   <div>
+    <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
+    <h6>Desde Setembro de 2021, Santos - SP <i>(Remoto)</i></h6>
+  </div>
+</div>
+
+- Aprendendo e desenvolvendo VB Scripts para automatização de testes com Micro Focus UFT.
+
+---
+<div>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
+  <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
   </div>
