@@ -19,6 +19,8 @@ Experiência
   </div>
 </div>
 
+- Aprendendo e desenvolvendo VB Scripts para automatização de testes com Micro Focus UFT.
+
 ----
 <div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
