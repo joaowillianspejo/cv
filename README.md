@@ -1,5 +1,6 @@
 #### <b>⚠️ &nbsp; ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema claro em seu navegador, acesse a versão Light. [Curriculum Vitae (Light Mode)](https://github.com/joaowillianspejo/cv/blob/main/Curriculum%20Vitae%20(Light%20Mode).md)
 
+<br>
 
 <h2>C.V. (Curriculum Vitae)</h2>
 
@@ -8,6 +9,8 @@
 > Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
 And in quality assurance, learning test automation with Cypress and Appium.
+
+<br>
 
 Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-images.githubusercontent.com/44349156/138786583-0093f9b3-6c58-413f-9f13-13bc218a937d.png" height="32">
 ----
@@ -113,13 +116,14 @@ Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-image
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
 - Reportar bugs.
-</br>
+
+<br>
 
 Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubusercontent.com/44349156/138786442-2415328f-e031-4ad2-9f37-51037e59f47f.png" height="32">
 ---
 <div align="center">
   <a href="https://rocketseat.com.br/"><img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/122497141-45b51600-cfc3-11eb-92ef-2dfb8a7e3f62.png" height="50"></a>
-  <hr width="200"/>
+  <hr width="240"/>
 </div>
 
 <div>
@@ -132,7 +136,7 @@ Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubuserc
 
 <div align="center">
   <a href="https://www.cps.sp.gov.br/"><img alt="Centro Paula Souza" src="https://user-images.githubusercontent.com/44349156/130835882-0e24e4b7-c5ff-4048-bb31-e23f99a4a8a1.png" height="78"></a>
-  <hr width="200"/>
+  <hr width="240"/>
 </div>
 
 <div>
@@ -160,7 +164,8 @@ Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubuserc
     <h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
   </div>
 </div>
-</br>
+
+<br>
 
 Certificações &nbsp; <img alt="Certificado" src="https://user-images.githubusercontent.com/44349156/138786501-c54ba5e3-509c-462e-90b4-d3edf9cd10cc.png" height="32">
 ---
