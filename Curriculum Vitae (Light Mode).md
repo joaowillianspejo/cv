@@ -1,5 +1,6 @@
 #### <b>⚠️ &nbsp; ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema escuro em seu navegador, acesse a versão Dark. [Curriculum Vitae (Dark Mode)](https://github.com/joaowillianspejo/cv/blob/main/README.md)
 
+<br>
 
 <h2>C.V. (Curriculum Vitae)</h2>
 
@@ -8,6 +9,8 @@
 > Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
 And in quality assurance, learning test automation with Cypress and Appium.
+
+<br>
 
 Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-images.githubusercontent.com/44349156/138786583-0093f9b3-6c58-413f-9f13-13bc218a937d.png" height="32">
 ----
@@ -113,8 +116,9 @@ Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-image
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
 - Reportar bugs.
-</br>
-  
+
+<br>
+
 Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubusercontent.com/44349156/138786442-2415328f-e031-4ad2-9f37-51037e59f47f.png" height="32">
 ---
 <div align="center">
@@ -160,8 +164,9 @@ Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubuserc
     <h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
   </div>
 </div>
-</br>
-  
+
+<br>
+
 Certificações &nbsp; <img alt="Certificado" src="https://user-images.githubusercontent.com/44349156/138786501-c54ba5e3-509c-462e-90b4-d3edf9cd10cc.png" height="32">
 ---
 <div>
