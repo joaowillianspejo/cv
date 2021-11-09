@@ -18,7 +18,7 @@ Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-image
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
-    <h6>Desde Setembro de 2021, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Setembro de 2021 - Novembro de 2021, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
