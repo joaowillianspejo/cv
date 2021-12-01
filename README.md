@@ -15,6 +15,21 @@ And in quality assurance, learning test automation with Cypress and Appium.
 Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-images.githubusercontent.com/44349156/138786583-0093f9b3-6c58-413f-9f13-13bc218a937d.png" height="32">
 ----
 <div>
+  <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/144253138-702c57b2-7210-4735-be78-f0179ffb480c.png" align="left" height="45"></a>
+  <div>
+    <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
+    <h6>Desde Novembro de 2021, Santos - SP <i>(Remoto)</i></h6>
+  </div>
+</div>
+
+- Elaboração de Caso de Testes;
+- Execução de Teste Manuais;
+- Execução de Testes Exploratórios;
+- Elaboração de scripts de automação de testes;
+- Reportar bugs.
+
+---
+<div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
