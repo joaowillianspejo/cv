@@ -25,7 +25,8 @@ Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-image
 - Elaboração de Caso de Testes;
 - Execução de Teste Manuais;
 - Execução de Testes Exploratórios;
-- Elaboração de scripts de automação de testes;
+- Elaboração de scripts de automação de testes e2e;
+- Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
 ---
