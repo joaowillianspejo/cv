@@ -24,8 +24,9 @@ Experiência
 
 - Elaboração de Caso de Testes;
 - Execução de Teste Manuais;
+- Execução de Teste API;
 - Execução de Testes Exploratórios;
-- Elaboração de scripts de automação de testes e2e;
+- Elaboração de scripts de automação de testes com Robot Framework;
 - Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
