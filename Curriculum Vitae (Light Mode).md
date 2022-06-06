@@ -12,8 +12,25 @@ And in quality assurance, learning test automation with Cypress and Appium.
 
 <br>
 
-Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-images.githubusercontent.com/44349156/138786583-0093f9b3-6c58-413f-9f13-13bc218a937d.png" height="32">
+Experiência
 ----
+<div>
+  <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/172172598-9f74fe27-b860-465e-a1dc-cb1fafd88e97.png" align="left" height="45"></a>
+  <div>
+    <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
+    <h6>Novembro de 2021 - Junho de 2022, Santos - SP <i>(Remoto)</i></h6>
+  </div>
+</div>
+
+- Elaboração de Caso de Testes;
+- Execução de Teste Manuais;
+- Execução de Teste API;
+- Execução de Testes Exploratórios;
+- Elaboração de scripts de automação de testes com Robot Framework;
+- Elaboração de scripts de automação de testes de API com REST Assured;
+- Reportar bugs.
+
+---
 <div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
   <div>
@@ -119,7 +136,7 @@ Experiência &nbsp; <img alt="Trabalhando com um laptop" src="https://user-image
 
 <br>
 
-Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubusercontent.com/44349156/138786442-2415328f-e031-4ad2-9f37-51037e59f47f.png" height="32">
+Formação
 ---
 <div align="center">
   <a href="https://rocketseat.com.br/"><img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/130525967-cbfda913-123d-45ee-948d-c51f2dbbf1aa.png" height="50"></a>
@@ -167,7 +184,7 @@ Formação &nbsp; <img alt="graduation-cap" src="https://user-images.githubuserc
 
 <br>
 
-Certificações &nbsp; <img alt="Certificado" src="https://user-images.githubusercontent.com/44349156/138786501-c54ba5e3-509c-462e-90b4-d3edf9cd10cc.png" height="32">
+Certificações
 ---
 <div>
   <img alt="SFPC" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Scrum-Foundation-Professional-Certificate-SFPC_480x480.png" align="left" height="90">
