@@ -30,7 +30,7 @@ Experiência
 - Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
-Ferramenstas: Postman API, Jira
+*Ferramenstas:* Postman API, Jira
 
 ---
 <div>
@@ -42,6 +42,8 @@ Ferramenstas: Postman API, Jira
 </div>
 
 - Aprendendo e desenvolvendo VB Scripts para automatização de testes com Micro Focus UFT.
+
+*Ferramenstas:* ALM
 
 ----
 <div>
@@ -69,7 +71,7 @@ Ferramenstas: Postman API, Jira
 - Execução de Teste Manuais;
 - Reportar bugs.
 
-Ferramenstas: ALM
+*Ferramenstas:* ALM
 
 ---
 <div>
@@ -86,7 +88,7 @@ Ferramenstas: ALM
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
 
-Ferramenstas: ALM
+*Ferramenstas:* ALM
 
 ---
 <div>
@@ -104,7 +106,7 @@ Ferramenstas: ALM
 - Reportar furos negociais;
 - Reportar bugs.
 
-Ferramenstas: Azure DevOps
+*Ferramenstas:* Azure DevOps
 
 ---
 <div>
