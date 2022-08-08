@@ -30,6 +30,8 @@ Experiência
 - Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
+Ferramenstas: Postman API, Jira
+
 ---
 <div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
@@ -67,6 +69,8 @@ Experiência
 - Execução de Teste Manuais;
 - Reportar bugs.
 
+Ferramenstas: ALM
+
 ---
 <div>
   <a href="https://www.datum.inf.br/"><img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" align="left" height="46"></a>
@@ -81,6 +85,8 @@ Experiência
 - Execução de Teste Manuais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
+
+Ferramenstas: ALM
 
 ---
 <div>
@@ -97,6 +103,8 @@ Experiência
 - Execução de Testes Exploratórios;
 - Reportar furos negociais;
 - Reportar bugs.
+
+Ferramenstas: Azure DevOps
 
 ---
 <div>
