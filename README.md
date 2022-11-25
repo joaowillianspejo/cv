@@ -207,7 +207,7 @@ Certificações
 
 ---
 <div>
-  <img alt="RWVCPC" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate-RWVCPC_480x480.png" align="left" height="90">
+  <img alt="RWVCPC" src="https://user-images.githubusercontent.com/44349156/204023081-3c7c2fe5-6137-4917-a467-ffbce2605fbc.png" align="left" height="90">
   <div>
     <h4><b>Remote Work and Virtual Collaboration Professional Certificate (RWVCPC)</b> | CertiProf</h4>
     <h5>Janeiro de 2021 - Janeiro de 2023</h5>
