@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/144253138-702c57b2-7210-4735-be78-f0179ffb480c.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Dezembro de 2022, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Março de 2023, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
@@ -110,7 +110,7 @@ Experiência
 
 ---
 <div>
-  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Analista de Suporte Externo</h4>
     <h6>Março de 2018 - Setembro de 2018, Taquaritinga - SP</h6>
@@ -129,7 +129,7 @@ Experiência
 
 ---
 <div>
-  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Estagiário</h4>
     <h6>Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP</h6>
