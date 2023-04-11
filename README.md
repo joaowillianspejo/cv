@@ -23,7 +23,7 @@ Experiência
 </div>
 
 - Elaboração de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
 - Elaboração de scripts de automação de testes com Robot Framework;
@@ -68,7 +68,7 @@ Experiência
 </div>
 
 - Elaboração de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Reportar bugs.
 
 *Ferramenstas:* ALM
@@ -84,7 +84,7 @@ Experiência
 
 <i>A serviço da: <b>DXC Technology</b></i>
 - Escrita de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
 
@@ -101,7 +101,7 @@ Experiência
   
 <i>Cast Seeds Teste:</i>
 - Elaboração de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Reportar furos negociais;
 - Reportar bugs.
@@ -122,7 +122,7 @@ Experiência
 - Aplicação de treinamento e capacitação dos usuários para operarem os sistemas;
 - Levantamento de informações e requisições dos usuários para aprimoramentos dos sistemas;
 - Discutir e explicar regras de negócio com a equipe de desenvolvimento, para que a mesma implemente-as de forma adequada nos sistemas desenvolvidos pela empresa;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
 - Reportar bugs.
@@ -139,7 +139,7 @@ Experiência
 
 - Auxílio na tomada de decisão entre os Programadores;
 - Auxílio para o Suporte Interno perante informações dos sistemas desenvolvidos pela empresa;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
 - Reportar bugs.
