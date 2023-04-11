@@ -23,7 +23,7 @@ Experiência
 </div>
 
 - Elaboração de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
 - Elaboração de scripts de automação de testes com Robot Framework;
@@ -64,7 +64,7 @@ Experiência
 </div>
 
 - Elaboração de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Reportar bugs.
 
 ---
@@ -78,7 +78,7 @@ Experiência
 
 <i>A serviço da: <b>DXC Technology</b></i>
 - Escrita de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
 
@@ -93,14 +93,14 @@ Experiência
   
 <i>Cast Seeds Teste:</i>
 - Elaboração de Caso de Testes;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Reportar furos negociais;
 - Reportar bugs.
 
 ---
 <div>
-  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Analista de Suporte Externo</h4>
     <h6>Março de 2018 - Setembro de 2018, Taquaritinga - SP</h6>
@@ -112,14 +112,14 @@ Experiência
 - Aplicação de treinamento e capacitação dos usuários para operarem os sistemas;
 - Levantamento de informações e requisições dos usuários para aprimoramentos dos sistemas;
 - Discutir e explicar regras de negócio com a equipe de desenvolvimento, para que a mesma implemente-as de forma adequada nos sistemas desenvolvidos pela empresa;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
 - Reportar bugs.
 
 ---
 <div>
-  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/114650265-52ae4400-9cb8-11eb-9423-004bed9aab96.png" align="left" height="70"></a>
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="70"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Estagiário</h4>
     <h6>Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP</h6>
@@ -129,7 +129,7 @@ Experiência
 
 - Auxílio na tomada de decisão entre os Programadores;
 - Auxílio para o Suporte Interno perante informações dos sistemas desenvolvidos pela empresa;
-- Execução de Teste Manuais;
+- Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
 - Reportar bugs.
@@ -197,7 +197,7 @@ Certificações
 
 ---
 <div>
-  <img alt="RWVCPC" src="https://images.youracclaim.com/images/2a7b1448-f309-4ada-bdea-64cb5dbcc26a/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate-RWVCPC.png" align="left" height="90">
+  <img alt="RWVCPC" src="https://user-images.githubusercontent.com/44349156/204023081-3c7c2fe5-6137-4917-a467-ffbce2605fbc.png" align="left" height="90">
   <div>
     <h4><b>Remote Work and Virtual Collaboration Professional Certificate (RWVCPC)</b> | CertiProf</h4>
     <h5>Janeiro de 2021 - Janeiro de 2023</h5>
