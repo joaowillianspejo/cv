@@ -30,7 +30,7 @@ Experiência
 - Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
-*Ferramenstas:* Jira, Postman API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
+*Ferramenstas:* Jira, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
 
 ---
 <div>
