@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/144253138-702c57b2-7210-4735-be78-f0179ffb480c.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Maio de 2023, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Setembro de 2023, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
@@ -26,11 +26,11 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
-- Elaboração de scripts de automação de testes com Robot Framework;
+- Elaboração de scripts de automação de testes com Cypress e Robot Framework;
 - Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
-*Ferramenstas:* Postman API, Jira
+*Ferramenstas:* Jira, Postman API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
 
 ---
 <div>
