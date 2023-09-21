@@ -4,7 +4,7 @@
 
 <h2>C.V. (Curriculum Vitae)</h2>
 
-<h3>João Willian Belarmino Spejo</h3>
+<h3>João Willian Belarmino Spejo <i>(he/him)</i></h3>
 
 > Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
