@@ -1,4 +1,4 @@
-#### <b>⚠️ &nbsp; ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema escuro em seu navegador, acesse a versão Dark. [Curriculum Vitae (Dark Mode)](https://github.com/joaowillianspejo/cv/blob/main/README.md)
+#### <b>⚠️&nbsp; ATENÇÃO:</b> Caso se encontre com dificuldades na visualização ou esteja utilizando um tema escuro em seu navegador, acesse a versão Dark. [Curriculum Vitae (Dark Mode)](https://github.com/joaowillianspejo/cv/blob/main/README.md)
 
 <br>
 
@@ -8,7 +8,7 @@
 
 > Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
-And in quality assurance, learning test automation with Cypress, Robot Framework and Appium.
+And in Quality Assurance, learning test automation with Cypress, Robot Framework and Appium.
 
 <br>
 
@@ -30,7 +30,7 @@ Experiência
 - Elaboração de scripts de automação de testes de API com REST Assured;
 - Reportar bugs.
 
-*Ferramenstas:* Jira, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
+*Ferramenstas:* Jira, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
 
 ---
 <div>
