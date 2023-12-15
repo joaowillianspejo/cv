@@ -27,7 +27,7 @@ Experiência
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
 - Elaboração de scripts de automação de testes com Cypress e Robot Framework;
-- Elaboração de scripts de automação de testes de API com REST Assured;
+- Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
 - Reportar bugs.
 
 *Ferramenstas:* Jira, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
