@@ -30,7 +30,7 @@ Experiência
 - Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
 - Reportar bugs.
 
-*Ferramenstas:* Jira, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
+*Ferramenstas:* Jira, Azure DevOps, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
 
 ---
 <div>
