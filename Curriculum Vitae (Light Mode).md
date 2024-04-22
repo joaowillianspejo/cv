@@ -149,7 +149,7 @@ Experiência
 Formação
 ---
 <div align="center">
-  <a href="https://rocketseat.com.br/"><img alt="Rocketseat" src="https://user-images.githubusercontent.com/44349156/130525967-cbfda913-123d-45ee-948d-c51f2dbbf1aa.png" height="50"></a>
+  <a href="https://rocketseat.com.br/"><img alt="Rocketseat" src="https://github.com/joaowillianspejo/cv/assets/44349156/ef7e6bb9-845d-4ef2-bdb6-8ccec8d6efac" height="35"></a>
   <hr width="200"/>
 </div>
 
