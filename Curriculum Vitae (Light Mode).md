@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/172172598-9f74fe27-b860-465e-a1dc-cb1fafd88e97.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Abril de 2024, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Maio de 2024, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
