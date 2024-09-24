@@ -8,7 +8,7 @@
 
 > Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
 Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
-And in Quality Assurance, learning test automation with Cypress, Robot Framework and Appium.
+And in Quality Assurance, learning test automation with Cypress, Robot Framework, Playwright and Appium.
 
 <br>
 
