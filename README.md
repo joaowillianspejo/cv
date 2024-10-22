@@ -30,7 +30,7 @@ Experiência
 - Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
 - Reportar bugs.
 
-*Ferramenstas:* Jira, Azure DevOps, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
+<h6><b>Ferramenstas:</b> Jira, Azure DevOps, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
 
 ---
 <div>
@@ -43,7 +43,7 @@ Experiência
 
 - Aprendendo e desenvolvendo VB Scripts para automatização de testes com Micro Focus UFT.
 
-*Ferramenstas:* ALM
+<h6><b>Ferramenstas:</b> ALM</h6>
 
 ----
 <div>
@@ -71,7 +71,7 @@ Experiência
 - Execução de Teste Funcionais;
 - Reportar bugs.
 
-*Ferramenstas:* ALM
+<h6><b>Ferramenstas:</b> ALM</h6>
 
 ---
 <div>
@@ -88,7 +88,7 @@ Experiência
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
 
-*Ferramenstas:* ALM
+<h6><b>Ferramenstas:</b> ALM</h6>
 
 ---
 <div>
@@ -106,7 +106,7 @@ Experiência
 - Reportar furos negociais;
 - Reportar bugs.
 
-*Ferramenstas:* Azure DevOps
+<h6><b>Ferramenstas:</b> Azure DevOps</h6>
 
 ---
 <div>
