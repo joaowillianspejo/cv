@@ -194,6 +194,38 @@ Formação
 
 <br>
 
+Treinamentos Relevantes
+---
+<div>
+  <img alt="" src="" align="left" height="75">
+  <div>
+    <h4>Bootcamp Gravidade ZERO com Robot Framework</h4>
+    <h5>Ministrado por: <b>Fernando Papito</b></h5>
+    <h6>No bootcamp vemos a utilização do Robot Framework com a biblioteca Browser para testes web, manipulação de massa de teste via banco de dados e API, testes de API com a biblioteca RequestsLibrary, diversas técnicas e estratégias de desenvolvimentos dos testes e desenvolvimento de CI para rodar os testes no GitHub Actions.</h6>
+    <h6>Repositório: https://github.com/joaowillianspejo/getgeeks-gravidadezero</h6>
+    <h6>Arquivo de configuração do CI: https://github.com/joaowillianspejo/getgeeks-gravidadezero/blob/main/.github/workflows/regression-tests.yml</h6>
+    <h6>Pipeline: https://github.com/joaowillianspejo/getgeeks-gravidadezero/actions/runs/2960856655</h6>
+  </div>
+</div>
+
+---
+<div>
+  <img alt="" src="" align="left" height="75">
+  <div>
+    <h4><b>Testes end-to-end com Cypress</h4>
+    <h5>Ministrado por: <b>Walmyr Lima e Silva Filho</b></h5>
+    <h6>O treinamento mostra a integração do Cypress no pipeline do GitHub, o GitHub Actions e maneira adequada de documentar as funções custom desenvolvidas com o Cypress.
+      <br><br>
+No treinamento é mostrado os scripts e a integração com o Cypress 8.2, mas para colocar uma pouco mais de desafio fiz ele já com o Cypress 10.3.1 para já ter a experiencia com as mudanças nas configurações</h6>
+    <h6>Repositório: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat</h6>
+    <h6>Arquivo de configuração do CI: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/blob/main/.github/workflows/ci.yml</h6>
+    <h6>Documentações das funções: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/blob/main/cypress/support/commands.d.ts</h6>
+    <h6>Caso queiram conferir também, o pipeline: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/actions/runs/2724666586</h6>
+  </div>
+</div>
+      
+<br>
+
 Certificações
 ---
 <div>
