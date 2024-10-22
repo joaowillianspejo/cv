@@ -220,7 +220,7 @@ No treinamento é mostrado os scripts e a integração com o Cypress 8.2, mas pa
     <h6>Repositório: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat</h6>
     <h6>Arquivo de configuração do CI: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/blob/main/.github/workflows/ci.yml</h6>
     <h6>Documentações das funções: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/blob/main/cypress/support/commands.d.ts</h6>
-    <h6>Caso queiram conferir também, o pipeline: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/actions/runs/2724666586</h6>
+    <h6>Pipeline: https://github.com/joaowillianspejo/testes-e2e-com-cypress-tat/actions/runs/2724666586</h6>
   </div>
 </div>
       
