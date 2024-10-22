@@ -197,7 +197,7 @@ Formação
 Treinamentos Relevantes
 ---
 <div>
-  <img alt="" src="" align="left" height="75">
+  <img alt="Robot Framework" src="https://github.com/user-attachments/assets/a9646b98-9bad-4d72-9373-dcd45be336ae" align="left" height="75">
   <div>
     <h4>Bootcamp Gravidade ZERO com Robot Framework</h4>
     <h5>Ministrado por: <b>Fernando Papito</b></h5>
@@ -210,7 +210,7 @@ Treinamentos Relevantes
 
 ---
 <div>
-  <img alt="" src="" align="left" height="75">
+  <img alt="Cypress" src="https://github.com/user-attachments/assets/50111a30-28b3-448b-b68f-c6c14162c32f" align="left" height="75">
   <div>
     <h4><b>Testes end-to-end com Cypress</h4>
     <h5>Ministrado por: <b>Walmyr Lima e Silva Filho</b></h5>
