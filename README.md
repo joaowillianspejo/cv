@@ -26,8 +26,12 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
-- Elaboração de scripts de automação de testes com Cypress e Robot Framework;
+- Execução de Testes de Integração;
+- Execução de Testes de ETL e Serviços;
+- Análise de logs;
+- Elaboração de scripts de automação de testes E2E com Cypress e Robot Framework;
 - Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
+- Elaboração de scripts de automação de testes mobile com Appium;
 - Reportar bugs.
 
 <h6><b>Ferramenstas:</b> Jira, Azure DevOps, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
@@ -55,6 +59,7 @@ Experiência
 </div>
 
 - Analisar Incidentes;
+- Análise de logs;
 - Buscar causa raiz do problema;
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
 
@@ -83,7 +88,7 @@ Experiência
 </div>
 
 <i>A serviço da: <b>DXC Technology</b></i>
-- Escrita de Caso de Testes;
+- Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
 - Reportar bugs.
@@ -106,7 +111,7 @@ Experiência
 - Reportar furos negociais;
 - Reportar bugs.
 
-<h6><b>Ferramenstas:</b> Azure DevOps</h6>
+<h6><b>Ferramenstas:</b> Azure DevOps, Swagger API</h6>
 
 ---
 <div>
