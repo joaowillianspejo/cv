@@ -63,6 +63,8 @@ Experiência
 - Buscar causa raiz do problema;
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
 
+<h6><b>Ferramenstas:</b> Jira<h6/>
+
 ---
 <div>
   <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
