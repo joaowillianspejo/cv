@@ -63,7 +63,7 @@ Experiência
 - Buscar causa raiz do problema;
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
 
-<h6><b>Ferramenstas:</b> Jira<h6/>
+<h6><b>Ferramenstas:</b> Jira, Java, PL/SQL, Dynatrace<h6/>
 
 ---
 <div>
