@@ -32,7 +32,8 @@ Experiência
 - Elaboração de scripts de automação de testes E2E com Cypress e Robot Framework;
 - Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
 - Elaboração de scripts de automação de testes mobile com Appium;
-- Reportar bugs.
+- Acompanhamento de bugs;
+- Reportar furos negociais.
 
 <h6><b>Ferramenstas:</b> Jira, Azure DevOps, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
 
@@ -76,7 +77,7 @@ Experiência
 
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 <h6><b>Ferramenstas:</b> ALM</h6>
 
@@ -93,7 +94,7 @@ Experiência
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 <h6><b>Ferramenstas:</b> ALM</h6>
 
@@ -110,8 +111,8 @@ Experiência
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
-- Reportar furos negociais;
-- Reportar bugs.
+- Acompanhamento de bugs;
+- Reportar furos negociais.
 
 <h6><b>Ferramenstas:</b> Azure DevOps, Swagger API</h6>
 
@@ -132,7 +133,7 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 ---
 <div>
@@ -149,7 +150,7 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 <br>
 
