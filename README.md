@@ -35,7 +35,7 @@ Experiência
 - Acompanhamento de bugs;
 - Reportar furos negociais.
 
-<h6><b>Ferramenstas:</b> Jira, Azure DevOps, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
+<h6><b>Ferramenstas:</b> Jira, Azure DevOps, Scrum, BDD, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
 
 ---
 <div>
@@ -114,7 +114,7 @@ Experiência
 - Acompanhamento de bugs;
 - Reportar furos negociais.
 
-<h6><b>Ferramenstas:</b> Azure DevOps, Swagger API</h6>
+<h6><b>Ferramenstas:</b> Azure DevOps, Scrum, Swagger API</h6>
 
 ---
 <div>
