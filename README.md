@@ -238,7 +238,7 @@ Certificações
 <div>
   <img alt="SFPC" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/files/Scrum-Foundation-Professional-Certificate-SFPC_480x480.png" align="left" height="90">
   <div>
-    <h4><b>Scrum Foundation Professional Certificate (SFPC)</b> | CertiProf</h4>
+    <h4><b>Scrum Foundation Professional Certificate <i>(SFPC)</i></b> | CertiProf</h4>
     <h5>Emitido em Agosto de 2019 <i>(Sem data de expiração)</i></h5>
     <h6>Credencial: 91565717389881</h6>
   </div>
@@ -248,7 +248,7 @@ Certificações
 <div>
   <img alt="RWVCPC" src="https://user-images.githubusercontent.com/44349156/204023081-3c7c2fe5-6137-4917-a467-ffbce2605fbc.png" align="left" height="90">
   <div>
-    <h4><b>Remote Work and Virtual Collaboration Professional Certificate (RWVCPC)</b> | CertiProf</h4>
+    <h4><b>Remote Work and Virtual Collaboration Professional Certificate <i>(RWVCPC)</i></b> | CertiProf</h4>
     <h5>Janeiro de 2021 - Janeiro de 2023</h5>
     <h6>Credencial: 56199660</h6>
   </div>
