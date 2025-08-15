@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/144253138-702c57b2-7210-4735-be78-f0179ffb480c.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Julho de 2025, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Agosto de 2025, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.castgroup.com.br/pt/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="55"></a>
+  <a href="https://www.cast4it.com/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="55"></a>
   <div>
     <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
