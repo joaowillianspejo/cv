@@ -83,7 +83,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.datum.inf.br/"><img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" align="left" height="46"></a>
+  <a href="https://www.datumit.com/"><img alt="Datum TI" src="https://www.datum.inf.br/wp-content/uploads/2019/09/Logos_Colors_20.png" align="left" height="46"></a>
   <div>
     <h4><b>Datum TI</b> | Analista de Teste Jr.</h4>
     <h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
