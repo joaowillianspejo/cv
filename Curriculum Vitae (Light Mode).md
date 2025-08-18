@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/172172598-9f74fe27-b860-465e-a1dc-cb1fafd88e97.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Julho de 2025, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Agosto de 2025, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
@@ -26,11 +26,16 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
-- Elaboração de scripts de automação de testes com Cypress e Robot Framework;
-- Elaboração de scripts de automação de testes de API com REST Assured;
-- Reportar bugs.
+- Execução de Testes de Integração;
+- Execução de Testes de ETL e Serviços;
+- Análise de logs;
+- Elaboração de scripts de automação de testes E2E com Cypress e Robot Framework;
+- Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
+- Elaboração de scripts de automação de testes mobile com Appium;
+- Acompanhamento de bugs;
+- Reportar furos negociais.
 
-*Ferramenstas:* Jira, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB
+<h6><b>Ferramenstas:</b> Jira, Azure DevOps, Scrum, BDD, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
 
 ---
 <div>
