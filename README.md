@@ -218,8 +218,8 @@ Treinamentos Relevantes
 
 ---
 <div>
-  <img alt="Cypress" src="https://github.com/user-attachments/assets/50111a30-28b3-448b-b68f-c6c14162c32f" align="left" height="75">
-  <div>
+  <img alt="Cypress" src="https://github.com/user-attachments/assets/2b837029-658a-4547-9d4c-d3045a3bfeb3" align="left" height="75">
+<div>
     <h4>Testes end-to-end com Cypress</h4>
     <h5>Ministrado por: <b>Walmyr Lima e Silva Filho</b></h5>
     <p><small><br>O treinamento mostra a integração do Cypress no pipeline do GitHub, o GitHub Actions e maneira adequada de documentar as funções custom desenvolvidas com o Cypress.<br><br>
