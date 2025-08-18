@@ -60,8 +60,11 @@ Experiência
 </div>
 
 - Analisar Incidentes;
+- Análise de logs;
 - Buscar causa raiz do problema;
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
+
+<h6><b>Ferramenstas:</b> Jira, Java, PL/SQL, Dynatrace</h6>
 
 ---
 <div>
@@ -76,7 +79,7 @@ Experiência
 - Execução de Teste Funcionais;
 - Reportar bugs.
 
-*Ferramenstas:* ALM
+<h6><b>Ferramenstas:</b> ALM</h6>
 
 ---
 <div>
@@ -88,12 +91,12 @@ Experiência
 </div>
 
 <i>A serviço da: <b>DXC Technology</b></i>
-- Escrita de Caso de Testes;
+- Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
 - Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
-*Ferramenstas:* ALM
+<h6><b>Ferramenstas:</b> ALM</h6>
 
 ---
 <div>
@@ -108,10 +111,10 @@ Experiência
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
-- Reportar furos negociais;
-- Reportar bugs.
-  
-*Ferramenstas:* Azure DevOps
+- Acompanhamento de bugs;
+- Reportar furos negociais.
+
+<h6><b>Ferramenstas:</b> Azure DevOps, Scrum, Swagger API</h6>
 
 ---
 <div>
