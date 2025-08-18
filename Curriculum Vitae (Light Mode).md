@@ -48,7 +48,7 @@ Experiência
 
 - Aprendendo e desenvolvendo VB Scripts para automatização de testes com Micro Focus UFT.
 
-*Ferramenstas:* ALM
+<h6><b>Ferramenstas:</b> ALM</h6>
 
 ---
 <div>
@@ -77,7 +77,7 @@ Experiência
 
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 <h6><b>Ferramenstas:</b> ALM</h6>
 
@@ -133,7 +133,7 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 ---
 <div>
@@ -150,7 +150,7 @@ Experiência
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Regressão;
-- Reportar bugs.
+- Acompanhamento de bugs.
 
 <br>
 
