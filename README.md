@@ -39,7 +39,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="58"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="60"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
     <h6>Setembro de 2021 - Novembro de 2021, Santos - SP <i>(Remoto)</i></h6>
@@ -52,7 +52,7 @@ Experiência
 
 ----
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="58"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="60"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
@@ -68,7 +68,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="58"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="60"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Testes Jr.</h4>
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -100,7 +100,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.cast4it.com/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="55"></a>
+  <a href="https://www.cast4it.com/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/119878879-05e99a00-bf01-11eb-87b6-074714a08370.png" align="left" height="58"></a>
   <div>
     <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
