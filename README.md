@@ -39,7 +39,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="58"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
     <h6>Setembro de 2021 - Novembro de 2021, Santos - SP <i>(Remoto)</i></h6>
@@ -52,7 +52,7 @@ Experiência
 
 ----
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="58"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
@@ -68,7 +68,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="55"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/121361136-628a8300-c90b-11eb-9e57-cfe572eceb96.png" align="left" height="58"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Testes Jr.</h4>
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -83,7 +83,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.datumit.com/"><img alt="Datum" src="https://cdn.prod.website-files.com/6855cafb6beb35baec2739f9/685a3145eb8650bba01bb236_Logo%20Datum%20Branco.svg" align="left" height="46"></a>
+  <a href="https://www.datumit.com/"><img alt="Datum" src="https://cdn.prod.website-files.com/6855cafb6beb35baec2739f9/685a3145eb8650bba01bb236_Logo%20Datum%20Branco.svg" align="left" height="48"></a>
   <div>
     <h4><b>Datum TI</b> | Analista de Teste Jr.</h4>
     <h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
@@ -184,7 +184,7 @@ Formação
   
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/130834329-0940dd4f-b4ac-4f05-9ac2-dfbac491d091.png" align="left" height="70">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/130834329-0940dd4f-b4ac-4f05-9ac2-dfbac491d091.png" align="left" height="75">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Técnico em Informática</h4>
     <h6>Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP</h6>
@@ -193,7 +193,7 @@ Formação
   
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/130834329-0940dd4f-b4ac-4f05-9ac2-dfbac491d091.png" align="left" height="70">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/130834329-0940dd4f-b4ac-4f05-9ac2-dfbac491d091.png" align="left" height="75">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Ensino Médio</h4>
     <h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
