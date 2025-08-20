@@ -39,7 +39,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="58"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
     <h6>Setembro de 2021 - Novembro de 2021, Santos - SP <i>(Remoto)</i></h6>
@@ -52,7 +52,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="58"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
@@ -68,7 +68,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="55"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="58"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Testes Jr.</h4>
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
@@ -83,7 +83,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.datum.inf.br/"><img alt="Datum TI" src="https://user-images.githubusercontent.com/44349156/130525104-bbfed5f7-f538-4808-827e-437df5bf51e6.png" align="left" height="46"></a>
+  <a href="https://www.datum.inf.br/"><img alt="Datum TI" src="https://user-images.githubusercontent.com/44349156/130525104-bbfed5f7-f538-4808-827e-437df5bf51e6.png" align="left" height="48"></a>
   <div>
     <h4><b>Datum TI</b> | Analista de Teste Jr.</h4>
     <h6>Julho de 2019 - Janeiro de 2020, Araraquara - SP</h6>
@@ -100,7 +100,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.castgroup.com.br/pt/"><img alt="Cast Group" src="https://user-images.githubusercontent.com/44349156/130525756-3edae0ff-8bd4-4d75-a6d4-ee661840e310.png" align="left" height="55"></a>
+  <a href="https://www.castgroup.com.br/pt/"><img alt="Cast Group" src="https://github.com/user-attachments/assets/933b2195-1f40-4357-95cf-0d8580239a6c" align="left" height="46"></a>  
   <div>
     <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
@@ -118,7 +118,7 @@ Experiência
 
 ---
 <div>
-  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="70"></a>
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="74"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Analista de Suporte Externo</h4>
     <h6>Março de 2018 - Setembro de 2018, Taquaritinga - SP</h6>
@@ -137,7 +137,7 @@ Experiência
 
 ---
 <div>
-  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="70"></a>
+  <a href="http://www.focussp.com.br/"><img alt="Focus Desenvolvimento" src="https://user-images.githubusercontent.com/44349156/228270823-a596ab49-1234-4afe-9a5e-471a11711d5c.png" align="left" height="74"></a>
   <div>
     <h4><b>Focus Desenvolvimento</b> | Estagiário</h4>
     <h6>Outubro de 2017 - Fevereiro de 2018, Taquaritinga - SP</h6>
