@@ -184,7 +184,7 @@ Formação
 
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/131523861-bd564ce7-84d6-44f4-a94d-0967d41e891a.png" align="left" height="74">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/131523861-bd564ce7-84d6-44f4-a94d-0967d41e891a.png" align="left" height="75">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Técnico em Informática</h4>
     <h6>Fevereiro de 2012 - Julho de 2013, Taquaritinga - SP</h6>
@@ -193,7 +193,7 @@ Formação
   
 ---
 <div>
-  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/131523861-bd564ce7-84d6-44f4-a94d-0967d41e891a.png" align="left" height="74">
+  <img alt="Etec Dans" src="https://user-images.githubusercontent.com/44349156/131523861-bd564ce7-84d6-44f4-a94d-0967d41e891a.png" align="left" height="75">
   <div>
     <h4><b>Etec Dr. Adail Nunes da Silva</b> | Ensino Médio</h4>
     <h6>Fevereiro de 2011 - Dezembro de 2013, Taquaritinga - SP</h6>
