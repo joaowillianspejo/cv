@@ -100,8 +100,8 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.cast4it.com/"><img alt="Cast Group" src="https://github.com/user-attachments/assets/8db65bd3-2678-486b-9fcd-35b1370a20eb" align="left" height="46"></a>  
-  <div>
+  <a href="https://www.cast4it.com/"><img alt="Cast Group" src="https://github.com/user-attachments/assets/149d4e01-ed83-4a5d-b45c-369fe2da51ff" align="left" height="46"></a>
+<div>
     <h4><b>Cast Group</b> | Estagiário <i>(Turma de formação)</i></h4>
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
   </div>
