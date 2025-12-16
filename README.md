@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/144253138-702c57b2-7210-4735-be78-f0179ffb480c.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Novembro de 2025, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Dezembro de 2025, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
@@ -33,6 +33,7 @@ Experiência
 - Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
 - Elaboração de scripts de automação de testes mobile com Appium;
 - Acompanhamento de bugs;
+- Buscar causa raiz do problema;
 - Reportar furos negociais.
 
 <h6><b>Ferramenstas:</b> Jira, Azure DevOps, Scrum, BDD, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
