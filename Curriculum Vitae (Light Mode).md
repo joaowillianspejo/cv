@@ -18,7 +18,7 @@ Experiência
   <a href="https://www.accenture.com/br-pt"><img alt="Accenture" src="https://user-images.githubusercontent.com/44349156/172172598-9f74fe27-b860-465e-a1dc-cb1fafd88e97.png" align="left" height="45"></a>
   <div>
     <h4><b>Accenture</b> | Analista de Automação de Teste</h4>
-    <h6>Novembro de 2021 - Novembro de 2025, Santos - SP <i>(Remoto)</i></h6>
+    <h6>Novembro de 2021 - Dezembro de 2025, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
 
@@ -40,7 +40,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="58"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://github.com/user-attachments/assets/6af932fd-3e08-4979-96d9-d230fab850a3" align="left" height="45"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Automação de Teste</h4>
     <h6>Setembro de 2021 - Novembro de 2021, Santos - SP <i>(Remoto)</i></h6>
@@ -53,7 +53,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="58"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://github.com/user-attachments/assets/6af932fd-3e08-4979-96d9-d230fab850a3" align="left" height="45"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Sistemas <i>(Sustentação N2)</i></h4>
     <h6>Agosto de 2020 - Setembro de 2021, Araraquara - SP <i>(Remoto)</i></h6>
@@ -69,7 +69,7 @@ Experiência
 
 ---
 <div>
-  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://user-images.githubusercontent.com/44349156/130524834-9c3b1a17-a15a-4c0d-a0dc-be3f15534692.png" align="left" height="58"></a>
+  <a href="https://www.dxc.com/br/pt"><img alt="DXC Technology" src="https://github.com/user-attachments/assets/6af932fd-3e08-4979-96d9-d230fab850a3" align="left" height="45"></a>
   <div>
     <h4><b>DXC Technology</b> | Analista de Testes Jr.</h4>
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
