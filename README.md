@@ -29,14 +29,14 @@ Experiência
 - Execução de Testes de Integração;
 - Execução de Testes de ETL e Serviços;
 - Análise de logs;
-- Elaboração de scripts de automação de testes E2E com Cypress e Robot Framework;
-- Elaboração de scripts de automação de testes de API com Cypress e REST Assured;
+- Elaboração de scripts de automação de testes E2E com Playwright, Cypress e Robot Framework;
+- Elaboração de scripts de automação de testes de API com Playwright, Cypress e REST Assured;
 - Elaboração de scripts de automação de testes mobile com Appium;
 - Acompanhamento de bugs;
 - Buscar causa raiz do problema;
 - Reportar furos negociais.
 
-<h6><b>Ferramenstas:</b> Jira, Azure DevOps, Scrum, BDD, Gherkin, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
+<h6><b>Ferramenstas:</b> Jira, Azure DevOps, Scrum, BDD, Gherkin, Playwright, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
 
 ---
 <div>
