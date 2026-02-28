@@ -23,18 +23,19 @@ Experiência
 </div>
 
 - Elaboração de Caso de Testes;
+- Elaboração de Massas de Testes;
 - Execução de Teste Funcionais;
 - Execução de Teste API;
 - Execução de Testes Exploratórios;
 - Execução de Testes de Integração;
 - Execução de Testes de ETL e Serviços;
-- Análise de logs;
-- Elaboração de scripts de automação de testes E2E com Playwright, Cypress e Robot Framework;
-- Elaboração de scripts de automação de testes de API com Playwright, Cypress e REST Assured;
-- Elaboração de scripts de automação de testes mobile com Appium;
+- Análise de logs com Amazon CloudWatch e Dynatrace;
+- Desenvolvimento e execução de testes automatizados E2E com Playwright, Cypress e Robot Framework;
+- Desenvolvimento e execução de testes automatizados de API com Playwright, Cypress e REST Assured;
+- Desenvolvimento e execução de testes automatizados mobile para Android e iOS com Appium;
 - Acompanhamento de bugs;
-- Buscar causa raiz do problema;
-- Reportar furos negociais.
+- Análise de Causa Raiz (RCA);
+- Identificação e reporte de inconsistências funcionais.
 
 <h6><b>Ferramenstas:</b> Jira, Azure DevOps, Scrum, BDD, Gherkin, Playwright, Cypress, Robot Framework, Postman API, Swagger API, PostgreSQL, Amazon CloudWatch, Amazon DynamoDB</h6>
 
@@ -61,8 +62,8 @@ Experiência
 </div>
 
 - Analisar Incidentes;
-- Análise de logs;
-- Buscar causa raiz do problema;
+- Análise de logs com Dynatrace;
+- Análise de Causa Raiz (RCA);
 - Alinhar soluções paliativas e definitivas com clientes, e analistas das squads de projetos.
 
 <h6><b>Ferramenstas:</b> Jira, Java, PL/SQL, Dynatrace</h6>
@@ -94,7 +95,7 @@ Experiência
 <i>A serviço da: <b>DXC Technology</b></i>
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
-- Execução de scripts de automação de testes no UFT *(Micro Focus Unified Functional Testing)*;
+- Execução de Testes Regressivos com UFT _(Micro Focus Unified Functional Testing)_;
 - Acompanhamento de bugs.
 
 <h6><b>Ferramenstas:</b> ALM</h6>
@@ -110,10 +111,11 @@ Experiência
   
 <i>Cast Seeds Teste:</i>
 - Elaboração de Caso de Testes;
+- Elaboração de Massas de Testes;
 - Execução de Teste Funcionais;
 - Execução de Testes Exploratórios;
 - Acompanhamento de bugs;
-- Reportar furos negociais.
+- Identificação e reporte de inconsistências funcionais.
 
 <h6><b>Ferramenstas:</b> Azure DevOps, Scrum, Swagger API</h6>
 
