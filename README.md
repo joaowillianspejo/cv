@@ -4,11 +4,15 @@
 
 <h2>C.V. (Curriculum Vitae)</h2>
 
-<h3>João Willian Belarmino Spejo <i>(he/him)</i></h3>
+<h3>João Willian Belarmino Spejo <i>(ele/dele)</i></h3>
 
-> Graduating in Analysis and Systems Development *(ADS)* at Fatec Taquaritinga.<br>
-Currently in web and mobile development learning NodeJS, ReactJS and React Native.<br>
-And in Quality Assurance, learning test automation with Playwright, Cypress, Robot Framework and Appium.
+> Analista de Qualidade de Software com mais de 6 anos de experiência atuando com testes e2e, de APIs, mobile, e automatizados com Playwright, Cypress, Robot Framework e Appium.
+>
+>Possuo experiência em integração contínua com GitHub Actions, e análise de logs e observabilidade com Amazon CloudWatch e Dynatrace para otimização de RCA.
+>
+>Atuei em projetos nas áreas de Plataformas Financeiras e de Pagamentos, Logística, Telecom, Saúde Pública, Infraestrutura de Transportes Rodoviários.
+>
+>Também estudando Desenvolvimento de microsserviços, sistemas web, e mobile com AWS, NodeJS, React e React Native.
 
 <br>
 
@@ -21,6 +25,8 @@ Experiência
     <h6>Novembro de 2021 - Dezembro de 2025, Santos - SP <i>(Remoto)</i></h6>
   </div>
 </div>
+
+> Atuei como um QA ágil e multidisciplinar responsável pela estratégia de testes em ambientes complexos e múltiplas plataformas, participando de todo o ciclo de vida dos projetos desde o planejamento na PI Planning até a entrega das demandas em produção, responsável pela elaboração de massas de testes sólidas e concisas, testes robustos e análise proativa de logs com Amazon CloudWatch e Dynatrace, reduzindo o tempo de resposta em análises de causa raiz (RCA) e elevando a confiabilidade de sistemas críticos nos setores de Plataformas Financeiras, de Pagamentos e Logística.
 
 - Elaboração de Caso de Testes;
 - Elaboração de Massas de Testes;
@@ -61,6 +67,8 @@ Experiência
   </div>
 </div>
 
+> Atuei como Analista de Sustentação (Incidentes) em projeto do setor financeiro, crédito consignado, atuando analisando logs e atuando em soluções paliativas dos incidentes.
+
 - Analisar Incidentes;
 - Análise de logs com Dynatrace;
 - Análise de Causa Raiz (RCA);
@@ -76,6 +84,8 @@ Experiência
     <h6>Janeiro de 2020 - Julho de 2020, Araraquara - SP</h6>
   </div>
 </div>
+
+> Atuei como Analista de Testes em projetos do setor de Telecom, voltados para o setor de Engenharia de Redes e Faturamento, sendo responsável pelos testes, elaboração de massas de testes, e auxiliando nas execuções dos testes regressivos das esteiras de rollout.
 
 - Elaboração de Caso de Testes;
 - Execução de Teste Funcionais;
@@ -108,8 +118,11 @@ Experiência
     <h6>Janeiro de 2019 - Julho de 2019, Araraquara - SP</h6>
   </div>
 <div>
-  
+
 <i>Cast Seeds Teste:</i>
+
+> Atuei como Analista de Testes em um projeto ágil rodando Scrum para o setor de Infraestrutura de Transportes Rodoviários, sendo responsável pelos testes funcionais, elaboração de massas de testes, dando suporte à tomada de decisão técnica entre a equipe de desenvolvimento e identificando e reportando aos POs e Tech Leads inconsistências funcionais.
+
 - Elaboração de Caso de Testes;
 - Elaboração de Massas de Testes;
 - Execução de Teste Funcionais;
